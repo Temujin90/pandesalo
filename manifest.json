@@ -1,0 +1,15 @@
+{
+  "name": "Pandesalo Bakery",
+  "short_name": "Pandesalo",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdf8f2",
+  "theme_color": "#d89b5a",
+  "icons": [
+    {
+      "src": "assets/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
